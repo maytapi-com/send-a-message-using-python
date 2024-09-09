@@ -30,7 +30,7 @@ This repository demonstrates how to send a WhatsApp message using Python and the
 - Easy integration
 - Comprehensive documentation
 
-Learn more about Maytapi's [WhatsApp API](https://maytapi.com/whatsapp-api) and how it can benefit your projects.
+Learn more about Maytapi's [WhatsApp API](https://maytapi.com) and how it can benefit your projects.
 
 ## Contributing
 
